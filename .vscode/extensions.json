@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "claudeai.claude-code",
+    "ms-vscode.vscode-github-pullrequest",
+    "eamodio.gitlens",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}

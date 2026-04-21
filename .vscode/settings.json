@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "*.jpg": "image",
+    "*.png": "image",
+    "*.mp3": "audio",
+    "*.mp4": "video"
+  },
+  "explorer.sortOrder": "type",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true
+  },
+  "editor.formatOnSave": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false
+}
